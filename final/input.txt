@@ -1,0 +1,3 @@
+time_between_arival_p= .25 .4 .2 .15
+Abel_service_p= .30 .28 .25 .17
+Baker_service_p= .35 .25 .20 .20
